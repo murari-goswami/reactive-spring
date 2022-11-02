@@ -6,6 +6,9 @@
     <modules>
         <module>managing-transactions</module>
 		<module>distributed-transactions</module>
+        <module>data-jpa</module>
+		<module>open-telemetry</module>
+		<module>reservation-pattern</module>
 	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
