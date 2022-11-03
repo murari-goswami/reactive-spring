@@ -23,6 +23,7 @@
 	<description>Reactive Spring</description>
 	<properties>
 		<java.version>19</java.version>
+		<spring-maven-plugin>2.7.4</spring-maven-plugin>
 	</properties>
 	<dependencies>
 		<dependency>
