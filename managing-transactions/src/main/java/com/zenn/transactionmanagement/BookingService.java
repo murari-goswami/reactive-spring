@@ -15,6 +15,8 @@ public class BookingService {
 
     private final JdbcTemplate jdbcTemplate;
 
+    private final String _TEST = "something";
+
     public BookingService(JdbcTemplate jdbcTemplate) {
         this.jdbcTemplate = jdbcTemplate;
     }

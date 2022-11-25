@@ -1,22 +1,15 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-# Getting Started
-
-### Reference Documentation
-For further reference, please consider the following sections:
-
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.7.6-SNAPSHOT/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.7.6-SNAPSHOT/maven-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.7.6-SNAPSHOT/reference/htmlsingle/#web)
-* [Spring Reactive Web](https://docs.spring.io/spring-boot/docs/2.7.6-SNAPSHOT/reference/htmlsingle/#web.reactive)
-
-### Guides
-The following guides illustrate how to use some features concretely:
-
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
-* [Building a Reactive RESTful Web Service](https://spring.io/guides/gs/reactive-rest-service/)
-
+# Rejuvinate
+* https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?autoSkip=true&autoplay=true&resume=false&u=73045713
+* https://www.youtube.com/watch?v=HWNgBs323wM
+* https://www.youtube.com/watch?v=NaEk2zAmDE8&t=28s
+* https://www.youtube.com/watch?v=uO2_ZzIIV70
+* https://www.youtube.com/watch?v=AiGCx0raQfs
+* https://www.youtube.com/watch?v=DD_Q4jGJsZ0
+* https://www.youtube.com/watch?v=YTPUNesUIbI
+* https://www.youtube.com/watch?v=xBci5w9ava0
+* https://www.youtube.com/watch?v=DoK3-9V5HRE
+* https://www.youtube.com/watch?v=YcE0Pi_Owhw&list=PLTgRMOcmRb3Mb5uVZw_lIR-9hY0XzXnu7
+* https://www.youtube.com/watch?v=gMvAp_qGyyE
+* https://www.youtube.com/watch?v=bB-xAYpeVL8&t=314s
+* https://www.youtube.com/watch?v=PZpu8hOfRJw
+* https://www.youtube.com/watch?v=YkkFLcpUKNI

@@ -8,8 +8,16 @@
 		<module>distributed-transactions</module>
         <module>data-jpa</module>
 		<module>open-telemetry</module>
-		<module>reservation-pattern</module>
-	</modules>
+		<module>security</module>
+		<module>annotation-mystery</module>
+		<module>event-driven-druid</module>
+        <module>architecture-pattern</module>
+		<module>microstream</module>
+		<module>neo4j</module>
+		<module>arcade-db</module>
+		<module>kafka-integration-test</module>
+        <module>cloud-events</module>
+    </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
